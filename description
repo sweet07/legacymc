@@ -8,9 +8,17 @@ FastLogin (messages, config)
     
 FunnyGuilds (messages, config, MYSQL)
     &f&lLegacyMC &8&l»
+    ITEMY NA GILDIE: 32 DIAMOND, 16 EMERALD, 32 GOLD INGOT, 16 IRON BLOCK, 8 ENDER PEARL
+    DOŁĄCZENIE DO GILDII: 4 DIAMOND, 2 EMERALD, 4 GOLD INGOT, 2 IRON BLOCK, 1 ENDER PEARL
+    PRZEDŁUŻANIE GILDII: 26 DIAMOND, 8 EMERALD, 26 GOLD INGOT, 8 IRON BLOCK, 8 ENDER PEARL
+    WAŻNOŚĆ GILDII: 7 DNI, 1 ŻYCIE NA START, OCHRONA 12 GODZIN, CO 12 GODZIN MOŻNA ATAKOWAĆ
+    MAKSYMALNA ILOŚĆ CZŁONKOW TO 12
+    BRAK POWIEKSZANIA CUBOID 100x100+/-
+    
     
 WorldBorder (messages)
     &f&lGranica &8&l»
+    GRANICA MAPY: 2000 KRATEK
     
 WorldEdit
 
@@ -18,6 +26,7 @@ WorldGuard
 
 Deathban (messages, config)
     &f&lDeath-Ban &8&l»
+    BAN NA 1 GODZINE PO ŚMIERCI
     
 Essentials (messages, config)
     &f&lLegacyMC &8&l»
@@ -29,6 +38,13 @@ dragoTeleport (messages, config)
     &f&lRandomTP &8&l»
     
 PermissionsEx (config)
+    {POINTS} {TAG} &7{USERNAME} &8» &f{MESSAGE}
+    {POINTS} {TAG} &e[+] &7{USERNAME} &e» &f{MESSAGE}
+    {POINTS}{TAG} &6[VIP] &r{USERNAME} &6» &f{MESSAGE}
+    &b[Junior] &r{USERNAME} &b» &f{MESSAGE}
+    &3[Moderator] &r{USERNAME} &3» &f{MESSAGE}
+    &c[Senior] &r{USERNAME} &c» &f{MESSAGE}
+    &4&l[Admin] &r{USERNAME} &4&l» &f{MESSAGE}
 
 NoCheatPlus (config, messages)
 
@@ -52,6 +68,8 @@ TradeIQ (https://www.mpcforum.pl/topic/1630580-plugin-%EF%BD%94%EF%BD%92%EF%BD%8
 True Custom Drops
 
 Custom Recipe
+    Usunięty przepis na strenght 2 i 1
+    
 
 
 
