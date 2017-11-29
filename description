@@ -1,1 +1,59 @@
-#
+PLUGINS:
+AuthMe Reloaded (messages, config, MYSQL)
+    &f&lRejestracja &8&l»
+    &f&lLogowanie &8&l»
+    
+FastLogin (messages, config)
+    &f&lLogowanie &8&l»
+    
+FunnyGuilds (messages, config, MYSQL)
+    &f&lLegacyMC &8&l»
+    
+WorldBorder (messages)
+    &f&lGranica &8&l»
+    
+WorldEdit
+WorldGuard
+
+Deathban (messages, config)
+    &f&lDeath-Ban &8&l»
+    
+Essentials (messages, config)
+    &f&lLegacyMC &8&l»
+    
+CombatTagPlus (messages, config)
+    &f&lAntyRelog &8&l»
+    
+dragoTeleport (messages, config)
+    &f&lRandomTP &8&l»
+    
+PermissionsEx (config)
+
+NoCheatPlus (config, messages)
+
+Vault
+
+ProtocolLib
+
+heart-changer
+
+RelaAutoBroadcast (messages, config)
+    &f&lAutoMSG &8&l»
+    
+OreReplacer (?)
+    &f&lAnty-Xray &8&l»
+    
+DeathChest (messages, config)
+
+TradeIQ (https://www.mpcforum.pl/topic/1630580-plugin-%EF%BD%94%EF%BD%92%EF%BD%81%EF%BD%84%EF%BD%85%EF%BD%89%EF%BD%91-bezpieczny-i-szybki-handel-z-graczami/)
+    &f&lHandel &8&l»
+
+True Custom Drops
+
+Custom Recipe
+
+
+
+
+
+
