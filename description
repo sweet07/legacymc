@@ -18,7 +18,7 @@ FunnyGuilds (messages, config, MYSQL)
     
 WorldBorder (messages)
     &f&lGranica &8&l»
-    GRANICA MAPY: 2000 KRATEK
+    GRANICA MAPY: 1500 KRATEK (co 2 tygodnie powiększana mapa o 250 kratek)
     
 WorldEdit
 
@@ -31,16 +31,17 @@ Deathban (messages, config)
 Essentials (messages, config)
     &f&lLegacyMC &8&l»
     SELL: 1 emerald = 10$
+    KITS: /kit start (stone pickaxe EFF:3, stone axe EFF:3, 32 steak)
     
 CombatTagPlus (messages, config)
     &f&lAntyRelog &8&l»
     
 dragoTeleport (messages, config)
     &f&lRandomTP &8&l»
+    MIN-MAX: 300 1300 (co 2 tygodnie powiększana o 250)
     
 PermissionsEx (config)
     {POINTS} {TAG} &7{USERNAME} &8» &f{MESSAGE}
-    {POINTS} {TAG} &e[+] &7{USERNAME} &e» &f{MESSAGE}
     {POINTS}{TAG} &6[VIP] &r{USERNAME} &6» &f{MESSAGE}
     &b[Junior] &r{USERNAME} &b» &f{MESSAGE}
     &3[Moderator] &r{USERNAME} &3» &f{MESSAGE}
