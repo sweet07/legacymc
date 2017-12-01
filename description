@@ -30,6 +30,7 @@ Deathban (messages, config)
     
 Essentials (messages, config)
     &f&lLegacyMC &8&l»
+    SELL: 1 emerald = 10$
     
 CombatTagPlus (messages, config)
     &f&lAntyRelog &8&l»
@@ -71,6 +72,9 @@ Custom Recipe
     Usunięty przepis na strenght 2 i 1
     crafting iron ingot - 8x iron ore, ~1x coal = 8 iron ingot
     crafting gold ingot - 8x gold ore, ~1x coal = 8 gold ingot
+    crafting kox - 8 gold block, 1x head = 1 enchanted golden apple
+    crafting enderchest - 8 obsidian, 1x ender pearl = 1 ender chest
+    
     
 PvPTimer (https://www.spigotmc.org/resources/pvptimer.42270/)
     60 minut na start
