@@ -2,10 +2,10 @@
 > 50 slotów
 > Wersja 1.12.2
 > 5GB Serwer, 512MB Bungee, 512MB Lobby + MYSQL
-> Tryb: Hardcore
+> Tryb: Hardcore (im więcej giniesz tym dłuższy ban)
 > Drop: Z rud
 > Brak P2WIN
-> Dużo rang za $
+> Dużo rang za $ ( Przybleda -> Podroznik(500$) -> Chlop(1,500$) -> Mieszkaniec(2,500$) -> Urzednik(5,000$) -> Kupiec(7,500$) -> Zarzadca(10,000$) -> Nowicjusz(15,000$) -> Uczen(25,000$) -> Czeladnik(35,000$) -> Dziedzic(50,000$) -> Rycerz(75,000$) -> Mistrz(100,000$) -> Kawaler(150,000$) -> Arystokrata(250,000$) -> Baron(400,000$) -> Lord(650,000$) -> Hrabia(1,500,000$) -> Graf(3,500,000$) -> Markiz(7,000,000$) -> Ksiaze(10,000,000) -> General(15,000,000$) -> Krolewicz(25,000,000$) -> Monarcha(50,000,000$) -> Wladca(100,000,000$)
 > Prace
 > Miasta, Nacje
 > Mapy: world, world_nether, world_resource
@@ -14,7 +14,8 @@
 > Teleporty: /home, /spawn, /surowce, /pieklo, /rynek
 > Kupno miejsca na sprzedaż przedmiotów: $250 lub $750 na dzień,
 > Mapa world_resource resetowana co miesiąc,
-> 
+> Nowy crafting:     Usunięty przepis na strenght 2 i 1,    crafting iron ingot - 8x iron ore, ~1x coal = 8 iron ingot,    crafting gold ingot - 8x gold ore, ~1x coal = 8 gold ingot,    crafting kox - 8 gold block, 1x head = 1 enchanted golden apple,    crafting enderchest - 8 obsidian, 1x ender pearl = 1 ender chest
+> KITY do rang i na start KITS: /kit start (stone pickaxe EFF:3, stone axe EFF:3, 32 steak)
 
 
 
